@@ -1,8 +1,6 @@
 # index.html
 
  # output
-  <img width="1280" height="1280" alt="New Image 1.jpeg" src="https://github.com/user-attachments/assets/31cff004-d1ee-4785-8c7d-8897d1ea5310" />
-  
-  <img width="800" height="534" alt="New Image 2.jpeg" src="https://github.com/user-attachments/assets/0d33aa17-3e67-4676-be7b-2ae64fb93d85" />
-
-<img width="612" height="408" alt="New Image 3.jpeg" src="https://github.com/user-attachments/assets/8f86c9d4-098c-4189-b89a-8acddaffcd1e" /> 
+ <img width="1280" height="1280" alt="New Image 1" src="https://github.com/user-attachments/assets/2df9dd99-0ebe-406c-886b-6e4ddfad769c" />
+<img width="800" height="534" alt="New Image 2" src="https://github.com/user-attachments/assets/020c88f7-bc71-44b9-8077-5b93e4576204" />
+<img width="612" height="408" alt="New Image 3" src="https://github.com/user-attachments/assets/ed4a8bdd-8f0d-4017-827f-6882c324ec5c" />
